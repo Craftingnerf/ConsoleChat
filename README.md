@@ -11,7 +11,7 @@ The idea I have for implementing the application is as follows
 title: Chat Server
 config:
     look: classic
-    theme: neutral
+    theme: dark
 ---
 flowchart TD
     A("`Listening thread`")
